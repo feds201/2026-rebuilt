@@ -4,9 +4,6 @@
 
 package frc.robot.subsystems.climber;
 
-
-
-
 import static edu.wpi.first.units.Units.Degrees;
 import static edu.wpi.first.units.Units.Rotations;
 
